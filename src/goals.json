@@ -1,0 +1,32 @@
+{
+    "goals": [
+      {
+        "id": 1,
+        "month": 11,
+        "objective": "Master advanced front-end framework concepts",
+        "description": "Dedicate time to master advanced concepts in your primary front-end framework (e.g., React, Angular, Vue)",
+        "status": "in_progress"
+      },
+      {
+        "id": 2,
+        "month": 11,
+        "objective": "Advance CSS skills",
+        "description": "Learn and apply advanced CSS techniques, including Flexbox, Grid, and animations",
+        "status": "in_progress"
+      },
+      {
+        "id": 3,
+        "month": 11,
+        "objective": "Build personal project",
+        "description": "Build a small personal project or improve an existing one to showcase front-end skills",
+        "status": "in_progress"
+      },
+      {
+        "id": 4,
+        "month": 12,
+        "objective": "Build personal project",
+        "description": "Build a small personal project or improve an existing one to showcase front-end skills",
+        "status": "in_progress"
+      }
+    ]
+  }
